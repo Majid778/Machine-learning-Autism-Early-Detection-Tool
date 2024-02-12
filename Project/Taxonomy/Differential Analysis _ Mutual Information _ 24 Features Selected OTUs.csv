@@ -1,0 +1,14 @@
+,Taxonomy,t_stat,p_value,log2_fold_change
+2134452,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,5.318225338721757,3.7948749753716372e-06,-3.0510258038155635
+4201971,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,3.5252364659853423,0.000731518010079989,-2.272523244460096
+4361727,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.418317706709707,0.0014223418747285016,3.58998855654276
+299837,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,-2.9479352713366533,0.005252995880730974,5.288964160470924
+344430,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,-2.3704037271570204,0.022545083384863905,4.337067014261094
+185936,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,5.958074311578838,5.388967563889048e-07,-6.952285783985644
+2281172,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus,2.612414024753448,0.012602569680179641,-8.350174312659117
+196370,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__gnavus,2.2858290699584445,0.02762311561380972,-4.196562351017206
+331253,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__,3.8203136740466648,0.0004549418403359542,-29.906248285286928
+1076557,k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__,-2.518411868285868,0.015774881995766786,6.154376622092463
+509636,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri,2.705922299091521,0.009925734349746985,-4.320854768625769
+188165,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__,2.6406346204825373,0.011307207396556046,-2.9089964296153568
+1078207,k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__,-2.6143422033940764,0.012448833247249588,25.094339411141995

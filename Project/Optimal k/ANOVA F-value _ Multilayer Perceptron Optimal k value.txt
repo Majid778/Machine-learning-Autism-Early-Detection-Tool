@@ -1,0 +1,13 @@
+Model: Multilayer Perceptron
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: 42
+
+Correctly Classified Instances: 81
+Incorrectly Classified Instances: 1
+Accuracy: 97.6389
+Kappa statistic: 0.9530
+Mean absolute error: 0.0236
+Root mean squared error: 0.0687
+Relative absolute error: 4.7500
+Root relative squared error: 13.7793
+Total Number of Instances: 83

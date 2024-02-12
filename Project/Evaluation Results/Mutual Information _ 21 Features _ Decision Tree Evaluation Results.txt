@@ -1,0 +1,18 @@
+Model: Decision Tree
+Feature Selection Method: Mutual Information
+Number of Features Selected: 21
+
+Correctly Classified Instances: 78
+Incorrectly Classified Instances: 5
+Accuracy: 93.7500
+Kappa statistic: 0.8750
+Mean absolute error: 0.0625
+Root mean squared error: 0.1561
+Relative absolute error: 12.5000
+Root relative squared error: 31.2132
+Precision: 0.9267
+Recall: 0.9750
+F1 Score: 0.9435
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 37, 'False Positive': 4, 'False Negative': 1, 'True Positive': 41}
+AUC: 0.9375

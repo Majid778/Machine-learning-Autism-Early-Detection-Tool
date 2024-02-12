@@ -1,0 +1,18 @@
+Model: Random Forest
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 82
+Incorrectly Classified Instances: 1
+Accuracy: 98.7500
+Kappa statistic: 0.9750
+Mean absolute error: 0.0125
+Root mean squared error: 0.0354
+Relative absolute error: 2.5000
+Root relative squared error: 7.0711
+Precision: 0.9800
+Recall: 1.0000
+F1 Score: 0.9889
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 40, 'False Positive': 1, 'False Negative': 0, 'True Positive': 42}
+AUC: 1.0000

@@ -1,0 +1,18 @@
+Model: Multilayer Perceptron
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 57
+Incorrectly Classified Instances: 26
+Accuracy: 68.4722
+Kappa statistic: 0.3702
+Mean absolute error: 0.3153
+Root mean squared error: 0.5432
+Relative absolute error: 63.2500
+Root relative squared error: 108.8326
+Precision: 0.7400
+Recall: 0.6850
+F1 Score: 0.6719
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 28, 'False Positive': 13, 'False Negative': 13, 'True Positive': 29}
+AUC: 0.7412

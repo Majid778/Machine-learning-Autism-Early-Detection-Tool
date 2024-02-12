@@ -1,0 +1,18 @@
+Model: Bagging with Random Forest
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 80
+Incorrectly Classified Instances: 3
+Accuracy: 96.3889
+Kappa statistic: 0.9280
+Mean absolute error: 0.0361
+Root mean squared error: 0.1040
+Relative absolute error: 7.2500
+Root relative squared error: 20.8503
+Precision: 0.9600
+Recall: 0.9750
+F1 Score: 0.9635
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 39, 'False Positive': 2, 'False Negative': 1, 'True Positive': 41}
+AUC: 1.0000

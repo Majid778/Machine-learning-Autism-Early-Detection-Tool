@@ -1,0 +1,13 @@
+Model: Naive Bayes
+Feature Selection Method: Mutual Information
+Number of Features Selected: 21
+
+Correctly Classified Instances: 82
+Incorrectly Classified Instances: 0
+Accuracy: 98.8889
+Kappa statistic: 0.9780
+Mean absolute error: 0.0111
+Root mean squared error: 0.0333
+Relative absolute error: 2.2500
+Root relative squared error: 6.7082
+Total Number of Instances: 83

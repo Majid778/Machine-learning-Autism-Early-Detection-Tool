@@ -1,0 +1,18 @@
+Model: Bagging with Naive Bayes
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 77
+Incorrectly Classified Instances: 6
+Accuracy: 92.7778
+Kappa statistic: 0.8561
+Mean absolute error: 0.0722
+Root mean squared error: 0.1633
+Relative absolute error: 14.5000
+Root relative squared error: 32.7349
+Precision: 1.0000
+Recall: 0.8600
+F1 Score: 0.9035
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 41, 'False Positive': 0, 'False Negative': 6, 'True Positive': 36}
+AUC: 1.0000

@@ -1,0 +1,18 @@
+Model: Naive Bayes
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 53
+Incorrectly Classified Instances: 30
+Accuracy: 63.8889
+Kappa statistic: 0.2618
+Mean absolute error: 0.3611
+Root mean squared error: 0.5870
+Relative absolute error: 72.5000
+Root relative squared error: 117.6253
+Precision: 0.6988
+Recall: 0.7100
+F1 Score: 0.6722
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 23, 'False Positive': 18, 'False Negative': 12, 'True Positive': 30}
+AUC: 0.6269

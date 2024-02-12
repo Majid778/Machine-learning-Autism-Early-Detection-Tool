@@ -1,0 +1,13 @@
+Model: Random Forest
+Feature Selection Method: Mutual Information
+Number of Features Selected: 28
+
+Correctly Classified Instances: 83
+Incorrectly Classified Instances: 0
+Accuracy: 100.0000
+Kappa statistic: 1.0000
+Mean absolute error: 0.0000
+Root mean squared error: 0.0000
+Relative absolute error: 0.0000
+Root relative squared error: 0.0000
+Total Number of Instances: 83

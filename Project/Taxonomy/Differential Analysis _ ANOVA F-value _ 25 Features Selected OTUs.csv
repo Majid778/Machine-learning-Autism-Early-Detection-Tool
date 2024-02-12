@@ -1,0 +1,26 @@
+,Taxonomy,t_stat,p_value,log2_fold_change
+2134452,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,5.318225338721757,3.7948749753716372e-06,-3.0510258038155635
+182854,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.5236871712569973,0.00096815691821138,1.825409956147355
+336710,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.309537120443583,0.001934498914123989,3.2644194026785187
+3426658,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.544823956447529,0.0009955018357369878,3.9065682987138244
+4201971,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,3.5252364659853423,0.000731518010079989,-2.272523244460096
+4361727,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.418317706709707,0.0014223418747285016,3.58998855654276
+2875735,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.304777301702347,0.0019066492762780307,2.077992542889998
+205904,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__,-3.591927408808319,0.0008445885180562179,3.018698844657895
+175789,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,3.9507058959394006,0.0002872972945429084,-2.375852374888274
+362997,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis,3.346323355956955,0.0015677680549585305,-2.0040259648399212
+3327894,k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__uniformis,3.556606367558262,0.000890016104111259,-2.2687063494881987
+294922,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii,3.796075828517427,0.0004309564886828702,-2.1060227044703916
+511795,k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__,-3.448392421627574,0.001127708640524891,2.432295824470695
+185936,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,5.958074311578838,5.388967563889048e-07,-6.952285783985644
+191399,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,3.542192038049248,0.0007975716955837884,-1.9513920273979821
+331253,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__,3.8203136740466648,0.0004549418403359542,-29.906248285286928
+4439469,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,3.5596944778563118,0.0009608188524106351,-5.251542689124046
+3090048,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__,3.4658456997020464,0.0012764539850862902,-27.078487789921752
+192263,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__,3.270419876949374,0.0022140589511855297,-26.779949240194995
+194626,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,-3.2848019016847503,0.0020945845339245734,27.951348206355206
+4232047,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__,3.2536298717255683,0.002243896767256135,-3.6299232896007427
+185240,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__,3.691268122158459,0.0006568581250335888,-4.994099975866097
+183573,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__,-3.339883376372019,0.0017457382472198918,4.580431090320322
+194868,k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__,-3.3101599760084293,0.0019032432131285489,4.6196985815399145
+219154,k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae; g__; s__,-3.5366570893208698,0.0010220310422397703,25.847797288582463

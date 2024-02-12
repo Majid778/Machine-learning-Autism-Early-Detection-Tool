@@ -1,0 +1,18 @@
+Model: Decision Tree
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 79
+Incorrectly Classified Instances: 4
+Accuracy: 95.0000
+Kappa statistic: 0.9000
+Mean absolute error: 0.0500
+Root mean squared error: 0.1207
+Relative absolute error: 10.0000
+Root relative squared error: 24.1421
+Precision: 0.9267
+Recall: 1.0000
+F1 Score: 0.9578
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 37, 'False Positive': 4, 'False Negative': 0, 'True Positive': 42}
+AUC: 0.9500

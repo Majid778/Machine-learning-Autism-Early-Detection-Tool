@@ -1,0 +1,18 @@
+Model: SVM
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 55
+Incorrectly Classified Instances: 28
+Accuracy: 66.5278
+Kappa statistic: 0.3202
+Mean absolute error: 0.3347
+Root mean squared error: 0.5696
+Relative absolute error: 67.2500
+Root relative squared error: 114.1599
+Precision: 0.6740
+Recall: 0.8750
+F1 Score: 0.7279
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 18, 'False Positive': 23, 'False Negative': 5, 'True Positive': 37}
+AUC: 0.6653

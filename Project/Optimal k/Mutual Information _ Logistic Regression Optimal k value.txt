@@ -1,0 +1,13 @@
+Model: Logistic Regression
+Feature Selection Method: Mutual Information
+Number of Features Selected: 99
+
+Correctly Classified Instances: 77
+Incorrectly Classified Instances: 5
+Accuracy: 93.0556
+Kappa statistic: 0.8577
+Mean absolute error: 0.0694
+Root mean squared error: 0.1411
+Relative absolute error: 14.0000
+Root relative squared error: 28.3272
+Total Number of Instances: 83

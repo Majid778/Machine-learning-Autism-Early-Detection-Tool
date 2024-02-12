@@ -1,0 +1,13 @@
+Model: AdaBoost with Random Forest
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: 52
+
+Correctly Classified Instances: 80
+Incorrectly Classified Instances: 2
+Accuracy: 96.5278
+Kappa statistic: 0.9311
+Mean absolute error: 0.0347
+Root mean squared error: 0.1020
+Relative absolute error: 7.0000
+Root relative squared error: 20.4875
+Total Number of Instances: 83

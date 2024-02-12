@@ -1,0 +1,18 @@
+Model: Multilayer Perceptron
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 81
+Incorrectly Classified Instances: 2
+Accuracy: 97.6389
+Kappa statistic: 0.9519
+Mean absolute error: 0.0236
+Root mean squared error: 0.0687
+Relative absolute error: 4.7500
+Root relative squared error: 13.7793
+Precision: 0.9633
+Recall: 1.0000
+F1 Score: 0.9798
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 39, 'False Positive': 2, 'False Negative': 0, 'True Positive': 42}
+AUC: 1.0000

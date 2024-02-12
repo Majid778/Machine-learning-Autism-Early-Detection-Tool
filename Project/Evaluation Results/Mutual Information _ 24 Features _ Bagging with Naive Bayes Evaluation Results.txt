@@ -1,0 +1,18 @@
+Model: Bagging with Naive Bayes
+Feature Selection Method: Mutual Information
+Number of Features Selected: 24
+
+Correctly Classified Instances: 71
+Incorrectly Classified Instances: 12
+Accuracy: 85.2778
+Kappa statistic: 0.7050
+Mean absolute error: 0.1472
+Root mean squared error: 0.3340
+Relative absolute error: 29.5000
+Root relative squared error: 66.8771
+Precision: 1.0000
+Recall: 0.7050
+F1 Score: 0.8051
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 41, 'False Positive': 0, 'False Negative': 12, 'True Positive': 30}
+AUC: 1.0000

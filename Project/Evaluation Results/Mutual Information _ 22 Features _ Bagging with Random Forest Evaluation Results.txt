@@ -1,0 +1,18 @@
+Model: Bagging with Random Forest
+Feature Selection Method: Mutual Information
+Number of Features Selected: 22
+
+Correctly Classified Instances: 80
+Incorrectly Classified Instances: 3
+Accuracy: 96.3889
+Kappa statistic: 0.9269
+Mean absolute error: 0.0361
+Root mean squared error: 0.1040
+Relative absolute error: 7.2500
+Root relative squared error: 20.8503
+Precision: 0.9433
+Recall: 1.0000
+F1 Score: 0.9687
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 38, 'False Positive': 3, 'False Negative': 0, 'True Positive': 42}
+AUC: 1.0000

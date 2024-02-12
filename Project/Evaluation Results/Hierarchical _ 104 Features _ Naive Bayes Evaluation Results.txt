@@ -1,0 +1,18 @@
+Model: Naive Bayes
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 75
+Incorrectly Classified Instances: 8
+Accuracy: 90.2778
+Kappa statistic: 0.8061
+Mean absolute error: 0.0972
+Root mean squared error: 0.2340
+Relative absolute error: 19.5000
+Root relative squared error: 46.8771
+Precision: 1.0000
+Recall: 0.8100
+F1 Score: 0.8749
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 41, 'False Positive': 0, 'False Negative': 8, 'True Positive': 34}
+AUC: 1.0000

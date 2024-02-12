@@ -1,0 +1,18 @@
+Model: SVM
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 57
+Incorrectly Classified Instances: 26
+Accuracy: 68.4722
+Kappa statistic: 0.3734
+Mean absolute error: 0.3153
+Root mean squared error: 0.5464
+Relative absolute error: 63.2500
+Root relative squared error: 109.4617
+Precision: 0.6967
+Recall: 0.7350
+F1 Score: 0.6991
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 26, 'False Positive': 15, 'False Negative': 11, 'True Positive': 31}
+AUC: 0.6847

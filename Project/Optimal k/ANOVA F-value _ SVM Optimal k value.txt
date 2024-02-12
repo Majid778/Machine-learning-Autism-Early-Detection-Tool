@@ -1,0 +1,13 @@
+Model: SVM
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: 27
+
+Correctly Classified Instances: 73
+Incorrectly Classified Instances: 9
+Accuracy: 88.0556
+Kappa statistic: 0.7577
+Mean absolute error: 0.1194
+Root mean squared error: 0.2584
+Relative absolute error: 24.0000
+Root relative squared error: 51.7878
+Total Number of Instances: 83

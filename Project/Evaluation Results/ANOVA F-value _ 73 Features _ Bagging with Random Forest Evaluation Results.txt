@@ -1,0 +1,18 @@
+Model: Bagging with Random Forest
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: 73
+
+Correctly Classified Instances: 78
+Incorrectly Classified Instances: 5
+Accuracy: 94.0278
+Kappa statistic: 0.8811
+Mean absolute error: 0.0597
+Root mean squared error: 0.1520
+Relative absolute error: 12.0000
+Root relative squared error: 30.4875
+Precision: 0.9467
+Recall: 0.9550
+F1 Score: 0.9435
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 38, 'False Positive': 3, 'False Negative': 2, 'True Positive': 40}
+AUC: 1.0000

@@ -1,0 +1,13 @@
+Model: SVM
+Feature Selection Method: Mutual Information
+Number of Features Selected: 19
+
+Correctly Classified Instances: 73
+Incorrectly Classified Instances: 9
+Accuracy: 88.0556
+Kappa statistic: 0.7577
+Mean absolute error: 0.1194
+Root mean squared error: 0.2618
+Relative absolute error: 24.0000
+Root relative squared error: 52.4693
+Total Number of Instances: 83

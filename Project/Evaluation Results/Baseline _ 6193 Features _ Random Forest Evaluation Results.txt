@@ -1,0 +1,18 @@
+Model: Random Forest
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 72
+Incorrectly Classified Instances: 11
+Accuracy: 86.5278
+Kappa statistic: 0.7311
+Mean absolute error: 0.1347
+Root mean squared error: 0.3227
+Relative absolute error: 27.0000
+Root relative squared error: 64.6296
+Precision: 0.9350
+Recall: 0.8050
+F1 Score: 0.8464
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 38, 'False Positive': 3, 'False Negative': 8, 'True Positive': 34}
+AUC: 0.9637

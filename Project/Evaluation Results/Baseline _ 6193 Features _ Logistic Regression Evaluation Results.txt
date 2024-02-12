@@ -1,0 +1,18 @@
+Model: Logistic Regression
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 60
+Incorrectly Classified Instances: 23
+Accuracy: 72.2222
+Kappa statistic: 0.4483
+Mean absolute error: 0.2778
+Root mean squared error: 0.5093
+Relative absolute error: 55.7500
+Root relative squared error: 102.0438
+Precision: 0.8000
+Recall: 0.6400
+F1 Score: 0.6722
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 33, 'False Positive': 8, 'False Negative': 15, 'True Positive': 27}
+AUC: 0.7737

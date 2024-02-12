@@ -1,0 +1,18 @@
+Model: Bagging with Naive Bayes
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: 25
+
+Correctly Classified Instances: 81
+Incorrectly Classified Instances: 2
+Accuracy: 97.5000
+Kappa statistic: 0.9500
+Mean absolute error: 0.0250
+Root mean squared error: 0.0500
+Relative absolute error: 5.0000
+Root relative squared error: 10.0000
+Precision: 0.9750
+Recall: 0.9750
+F1 Score: 0.9750
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 40, 'False Positive': 1, 'False Negative': 1, 'True Positive': 41}
+AUC: 0.9938

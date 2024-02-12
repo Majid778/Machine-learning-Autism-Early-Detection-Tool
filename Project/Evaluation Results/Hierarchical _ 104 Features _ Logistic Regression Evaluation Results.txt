@@ -1,0 +1,18 @@
+Model: Logistic Regression
+Feature Selection Method: Hierarchical
+Number of Features Selected: 104
+
+Correctly Classified Instances: 79
+Incorrectly Classified Instances: 4
+Accuracy: 95.4167
+Kappa statistic: 0.9046
+Mean absolute error: 0.0458
+Root mean squared error: 0.1158
+Relative absolute error: 9.2500
+Root relative squared error: 23.2661
+Precision: 0.9348
+Recall: 1.0000
+F1 Score: 0.9631
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 37, 'False Positive': 4, 'False Negative': 0, 'True Positive': 42}
+AUC: 1.0000

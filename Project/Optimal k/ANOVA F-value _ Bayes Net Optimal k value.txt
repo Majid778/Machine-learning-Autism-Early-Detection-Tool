@@ -1,0 +1,4 @@
+Model: Bayes Net
+Feature Selection Method: ANOVA F-value
+Number of Features Selected: None
+

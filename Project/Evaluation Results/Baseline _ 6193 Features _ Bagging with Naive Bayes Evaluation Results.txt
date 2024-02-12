@@ -1,0 +1,18 @@
+Model: Bagging with Naive Bayes
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 52
+Incorrectly Classified Instances: 31
+Accuracy: 62.6389
+Kappa statistic: 0.2365
+Mean absolute error: 0.3736
+Root mean squared error: 0.5963
+Relative absolute error: 75.0000
+Root relative squared error: 119.4903
+Precision: 0.6701
+Recall: 0.6550
+F1 Score: 0.6316
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 24, 'False Positive': 17, 'False Negative': 14, 'True Positive': 28}
+AUC: 0.6844

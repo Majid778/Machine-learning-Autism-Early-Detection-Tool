@@ -1,0 +1,10 @@
+Method,Model,Number of Features,Accuracy,Correctly_Classified_Instances,Incorrectly_Classified_Instances,Precision,Recall,F1_Score,AUC,True_Negative,True_Positive,False_Negative,False_Positive,Kappa_statistic,Mean_absolute_error,Root_mean_squared_error,Relative_absolute_error,Root_relative_squared_error,Total_Number_of_Instances
+ANOVA F-value,Decision Tree,112,97.5,81,2,0.96,1.0,0.9778,0.975,39,42,0,2,0.95,0.025,0.0707,5.0,14.1421,83
+ANOVA F-value,Naive Bayes,25,98.75,82,1,0.98,1.0,0.9889,1.0,40,42,0,1,0.975,0.0125,0.0354,2.5,7.0711,83
+ANOVA F-value,Random Forest,119,98.75,82,1,0.98,1.0,0.9889,1.0,40,42,0,1,0.975,0.0125,0.0354,2.5,7.0711,83
+Baseline,Decision Tree,6193,90.0,75,8,0.88,0.95,0.9079,0.9,35,40,2,6,0.8,0.1,0.238,20.0,47.6028,83
+Baseline,Naive Bayes,6193,63.8889,53,30,0.6988,0.71,0.6722,0.6269,23,30,12,18,0.2618,0.3611,0.587,72.5,117.6253,83
+Baseline,Random Forest,6193,86.5278,72,11,0.935,0.805,0.8464,0.9637,38,34,8,3,0.7311,0.1347,0.3227,27.0,64.6296,83
+Mutual Information,Decision Tree,21,93.75,78,5,0.9267,0.975,0.9435,0.9375,37,41,1,4,0.875,0.0625,0.1561,12.5,31.2132,83
+Mutual Information,Naive Bayes,21,96.3889,80,3,1.0,0.93,0.9603,1.0,41,39,3,0,0.928,0.0361,0.104,7.25,20.8503,83
+Mutual Information,Random Forest,28,97.5,81,2,0.96,1.0,0.9778,1.0,39,42,0,2,0.95,0.025,0.0707,5.0,14.1421,83

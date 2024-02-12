@@ -1,0 +1,18 @@
+Model: AdaBoost with Random Forest
+Feature Selection Method: Baseline
+Number of Features Selected: 6193
+
+Correctly Classified Instances: 72
+Incorrectly Classified Instances: 11
+Accuracy: 86.6667
+Kappa statistic: 0.7330
+Mean absolute error: 0.1333
+Root mean squared error: 0.3207
+Relative absolute error: 26.7500
+Root relative squared error: 64.2667
+Precision: 0.9133
+Recall: 0.8300
+F1 Score: 0.8568
+Total Number of Instances: 83
+Confusion Matrix: {'True Negative': 37, 'False Positive': 4, 'False Negative': 7, 'True Positive': 35}
+AUC: 0.9512
