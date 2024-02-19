@@ -1,33 +1,31 @@
 # Capstone Project Fall 2023 - NYU Abu Dhabi
 
 ## Project Overview
-This capstone project explores the association between the gut microbiota and the early identification of Autism Spectrum Disorder (ASD) through machine learning. The study addresses the urgent need for early and accurate diagnosis of ASD, considering the challenges and limitations of current diagnostic methods.
+This capstone project, led by Majid Ibrahim, investigates the relationship between the gut microbiome and Autism Spectrum Disorder (ASD) using machine learning. It addresses the urgent need for early and accurate ASD diagnosis, considering the limitations of current diagnostic methods and the disparities in care due to costs and accessibility&#8203;``【oaicite:10】``&#8203;.
 
-## Motivation and Contributions
-### Motivation
-The study is motivated by the significant impact that early screening and diagnosis of ASD can have on the long-term outcomes for children. Early identification is crucial for enhancing the developmental trajectory and quality of life for these children.
+## Background
+Autism Spectrum Disorder (ASD) causes problems with socialization, communication, and behavior. Recent studies have connected ASD to the gut microbiome, comprising bacteria and other organisms in the digestive tract. This project aims to develop cost-effective ASD diagnosis and treatment options based on gut microbiota and machine learning, boosting long-term outcomes&#8203;``【oaicite:9】``&#8203;.
 
-### Contributions
-1. **Machine Learning Algorithms**: Establishing the capability of machine learning algorithms to predict ASD using gut microbiome data.
-2. **Key Biomarkers**: Identifying biomarkers that contribute to understanding ASD's biological underpinnings.
-3. **Diagnostic Tool**: Creating a tool for the early detection of Autism Spectrum Disorder.
-
-## Related Work
-The project references various studies, including research on parent-mediated interventions for infants at risk of developing ASD, highlighting the benefits of early intervention.
+## Project Objectives
+1. **Machine Learning Algorithms**: Establish machine learning algorithms to predict ASD using gut microbiome data&#8203;``【oaicite:8】``&#8203;.
+2. **Key Biomarkers**: Identify biomarkers to understand ASD’s biological underpinnings and suggest potential pathways for early detection and intervention&#8203;``【oaicite:7】``&#8203;.
+3. **Diagnostic Tool**: Create a diagnostic tool for early detection of ASD&#8203;``【oaicite:6】``&#8203;.
 
 ## Experimental Results
-The study focuses on:
-- **Accuracy of Machine Learning Model**: Reflecting the model's ability to correctly identify and predict ASD based on gut microbiome data.
-- **Significant Features**: Understanding the underlying biological and microbial factors associated with ASD through feature selection.
+The study's primary results focused on the machine learning model's accuracy and the identification of significant features through feature selection. The model's accuracy is crucial as it reflects the ability to correctly predict ASD based on gut microbiome data. Significant features identified are essential for understanding the biological and microbial factors associated with ASD&#8203;``【oaicite:5】``&#8203;.
 
-## Conclusion and Impact
-The research marks a significant advancement in the use of machine learning in medical science, particularly in the context of neurological disorders such as ASD. It enhances scientific understanding and paves the way for practical applications that can impact individuals affected by this condition.
+### Model Performance
+- Models such as AdaBoost with Random Forest, Naive Bayes, and Logistic Regression were evaluated based on accuracy, precision, recall, F1 Score, and AUC&#8203;``【oaicite:4】``&#8203;.
+- A detailed examination was conducted on nine different models, with Naive Bayes and Random Forest models showing outstanding results in various feature selection methods&#8203;``【oaicite:3】``&#8203;.
 
-- **Machine Learning Efficacy**: Emphasizing the efficacy of Random Forest and Naive Bayes algorithms.
-- **Critical Biomarkers**: Identifying biomarkers within the gut microbiome.
-- **Developmental Tool**: Developing a non-invasive, efficient, and accessible detection tool for early ASD detection.
+### Significant Features
+- Two feature selection methods, ANOVA f-test and Mutual Information Gain, were employed to identify crucial features for the machine learning models aimed at detecting ASD&#8203;``【oaicite:2】``&#8203;.
+- The focus was on Operational Taxonomic Units (OTUs) that are most predictive of ASD&#8203;``【oaicite:1】``&#8203;.
 
-The tool is designed as an aid in screening for ASD, guiding individuals toward professional medical evaluation and diagnosis. This study contributes significantly to both scientific understanding and practical applications in the realm of ASD.
+## Conclusion
+This study successfully meets its primary objectives, establishing the efficacy of machine learning algorithms in predicting ASD using gut microbiome data and identifying key biomarkers. The development of a diagnostic tool for early detection of ASD marks a significant advancement in using machine learning in medical science, particularly in the context of neurological disorders like ASD&#8203;``【oaicite:0】``&#8203;.
 
 ---
 
+**References**
+- [10-76] NYUAD_Capstone_Report_mi1171_FINAL (2).pdf
